@@ -19,8 +19,8 @@ O DevMap é um projeto que visa conectar desenvolvedores próximos a você que t
 </p>
 
 <p align="center">
-    <img src="mobile/print2.jpg" alt="drawing" width="200"/>
-    <img src="mobile/print3.jpg" alt="drawing" width="200"/>
+    <img src="mobile/print2.jpg" alt="drawing" width="250"/>
+    <img src="mobile/print3.jpg" alt="drawing" width="250"/>
 </p>
 
 ## :checkered_flag: Iniciar a aplicacão
