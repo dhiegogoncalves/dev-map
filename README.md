@@ -15,11 +15,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O DevMap é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
 
 <p align="center">
-    <img src="frontend/print1.png" alt="drawing" width="650"/>
+    <img src="frontend/print1.png" alt="drawing" width="750"/>
 </p>
 
 <p align="center">
-    <img src="mobile/print2.png" alt="drawing" width="400"/>
+    <img src="mobile/print2.jpg" alt="drawing" width="200"/>
+    <img src="mobile/print3.jpg" alt="drawing" width="200"/>
 </p>
 
 ## :checkered_flag: Iniciar a aplicacão
